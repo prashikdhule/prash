@@ -12,7 +12,7 @@ public class Lab007 {
         int age = scanner.nextInt();
         System.out.println("Enter your salery");
         int salery = scanner.nextInt();
-        scanner
+        scanner.close();
 
 
 
